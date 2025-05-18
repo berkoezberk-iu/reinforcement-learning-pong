@@ -1,0 +1,1014 @@
+nohup: ignoring input
+Using device: cuda
+A.L.E: Arcade Learning Environment (version 0.11.0+dfae0bd)
+[Powered by Stella]
+Episode 0, Avg Q: 0.0012
+Episode 0, Reward: -19.0, Loss: 0.0000, Epsilon: 0.969
+Episode 1, Avg Q: 0.0012
+Episode 1, Reward: -20.0, Loss: 0.0000, Epsilon: 0.938
+Episode 2, Avg Q: 0.0012
+Episode 2, Reward: -21.0, Loss: 0.0000, Epsilon: 0.909
+Episode 3, Avg Q: 0.0012
+Episode 3, Reward: -21.0, Loss: 0.0000, Epsilon: 0.884
+Episode 4, Avg Q: 0.0012
+Episode 4, Reward: -21.0, Loss: 0.0000, Epsilon: 0.859
+Episode 5, Avg Q: 0.0012
+Episode 5, Reward: -21.0, Loss: 0.0000, Epsilon: 0.838
+Episode 6, Avg Q: 0.0012
+Episode 6, Reward: -21.0, Loss: 0.0000, Epsilon: 0.817
+Episode 7, Avg Q: 0.0012
+Episode 7, Reward: -21.0, Loss: 0.0000, Epsilon: 0.797
+Episode 8, Avg Q: 0.0012
+Episode 8, Reward: -21.0, Loss: 0.0000, Epsilon: 0.777
+Episode 9, Avg Q: 0.0012
+Episode 9, Reward: -21.0, Loss: 0.0000, Epsilon: 0.756
+Episode 10, Avg Q: 0.0012
+Episode 10, Reward: -21.0, Loss: 0.0000, Epsilon: 0.738
+Episode 11, Avg Q: 0.0012
+Episode 11, Reward: -21.0, Loss: 0.0000, Epsilon: 0.720
+[Sanity Check] Gradient Norm at step 10000: 0.0536
+Episode 12, Avg Q: -0.0127
+Episode 12, Reward: -20.0, Loss: 0.0303, Epsilon: 0.700
+Episode 13, Avg Q: -0.1074
+Episode 13, Reward: -20.0, Loss: 0.0520, Epsilon: 0.677
+Episode 14, Avg Q: -0.1961
+Episode 14, Reward: -20.0, Loss: 0.0003, Epsilon: 0.659
+Episode 15, Avg Q: -0.2778
+Episode 15, Reward: -21.0, Loss: 0.0003, Epsilon: 0.643
+Episode 16, Avg Q: -0.3875
+Episode 16, Reward: -21.0, Loss: 0.0010, Epsilon: 0.621
+Episode 17, Avg Q: -0.4563
+Episode 17, Reward: -21.0, Loss: 0.0027, Epsilon: 0.603
+Episode 18, Avg Q: -0.5093
+Episode 18, Reward: -20.0, Loss: 0.0032, Epsilon: 0.583
+Episode 19, Avg Q: -0.5451
+Episode 19, Reward: -21.0, Loss: 0.0012, Epsilon: 0.569
+Episode 20, Avg Q: -0.6193
+Episode 20, Reward: -20.0, Loss: 0.0013, Epsilon: 0.552
+Episode 21, Avg Q: -0.6852
+Episode 21, Reward: -20.0, Loss: 0.0017, Epsilon: 0.534
+Episode 22, Avg Q: -0.7925
+Episode 22, Reward: -21.0, Loss: 0.0095, Epsilon: 0.518
+Episode 23, Avg Q: -0.8331
+Episode 23, Reward: -20.0, Loss: 0.0351, Epsilon: 0.502
+Episode 24, Avg Q: -0.8336
+Episode 24, Reward: -20.0, Loss: 0.0300, Epsilon: 0.487
+Episode 25, Avg Q: -0.8464
+Episode 25, Reward: -21.0, Loss: 0.0603, Epsilon: 0.473
+Episode 26, Avg Q: -0.8819
+Episode 26, Reward: -21.0, Loss: 0.0011, Epsilon: 0.459
+Episode 27, Avg Q: -0.9602
+Episode 27, Reward: -20.0, Loss: 0.0324, Epsilon: 0.446
+Episode 28, Avg Q: -0.9902
+Episode 28, Reward: -21.0, Loss: 0.0295, Epsilon: 0.434
+Episode 29, Avg Q: -0.9843
+Episode 29, Reward: -19.0, Loss: 0.0012, Epsilon: 0.421
+Episode 30, Avg Q: -0.9747
+Episode 30, Reward: -21.0, Loss: 0.0325, Epsilon: 0.409
+Episode 31, Avg Q: -0.9769
+Episode 31, Reward: -21.0, Loss: 0.0306, Epsilon: 0.396
+Episode 32, Avg Q: -1.0450
+Episode 32, Reward: -21.0, Loss: 0.0001, Epsilon: 0.384
+Episode 33, Avg Q: -1.0706
+Episode 33, Reward: -21.0, Loss: 0.0011, Epsilon: 0.373
+Episode 34, Avg Q: -1.0857
+Episode 34, Reward: -21.0, Loss: 0.0645, Epsilon: 0.362
+Episode 35, Avg Q: -1.1279
+Episode 35, Reward: -21.0, Loss: 0.0337, Epsilon: 0.353
+Episode 36, Avg Q: -1.1780
+Episode 36, Reward: -21.0, Loss: 0.0012, Epsilon: 0.345
+Episode 37, Avg Q: -1.1688
+Episode 37, Reward: -20.0, Loss: 0.0604, Epsilon: 0.334
+Episode 38, Avg Q: -1.1857
+Episode 38, Reward: -21.0, Loss: 0.0313, Epsilon: 0.325
+Episode 39, Avg Q: -1.3021
+Episode 39, Reward: -21.0, Loss: 0.0327, Epsilon: 0.316
+Episode 40, Avg Q: -1.4124
+Episode 40, Reward: -21.0, Loss: 0.0004, Epsilon: 0.308
+Episode 41, Avg Q: -1.4308
+Episode 41, Reward: -20.0, Loss: 0.0294, Epsilon: 0.299
+Episode 42, Avg Q: -1.4776
+Episode 42, Reward: -20.0, Loss: 0.0014, Epsilon: 0.290
+Episode 43, Avg Q: -1.4807
+Episode 43, Reward: -20.0, Loss: 0.0104, Epsilon: 0.281
+Episode 44, Avg Q: -1.4400
+Episode 44, Reward: -20.0, Loss: 0.0329, Epsilon: 0.272
+Episode 45, Avg Q: -1.4150
+Episode 45, Reward: -21.0, Loss: 0.0002, Epsilon: 0.266
+Episode 46, Avg Q: -1.3632
+Episode 46, Reward: -20.0, Loss: 0.0084, Epsilon: 0.257
+Episode 47, Avg Q: -1.3787
+Episode 47, Reward: -20.0, Loss: 0.0010, Epsilon: 0.249
+Episode 48, Avg Q: -1.3411
+Episode 48, Reward: -20.0, Loss: 0.0002, Epsilon: 0.242
+Episode 49, Avg Q: -1.4262
+Episode 49, Reward: -20.0, Loss: 0.0623, Epsilon: 0.235
+Episode 50, Avg Q: -1.5795
+Episode 50, Reward: -21.0, Loss: 0.0089, Epsilon: 0.229
+Episode 51, Avg Q: -1.6629
+Episode 51, Reward: -21.0, Loss: 0.0001, Epsilon: 0.222
+Episode 52, Avg Q: -1.6026
+Episode 52, Reward: -21.0, Loss: 0.0321, Epsilon: 0.216
+Episode 53, Avg Q: -1.5568
+Episode 53, Reward: -21.0, Loss: 0.0558, Epsilon: 0.210
+Episode 54, Avg Q: -1.4865
+Episode 54, Reward: -20.0, Loss: 0.0008, Epsilon: 0.204
+Episode 55, Avg Q: -1.5490
+Episode 55, Reward: -21.0, Loss: 0.0002, Epsilon: 0.199
+Episode 56, Avg Q: -1.5091
+Episode 56, Reward: -21.0, Loss: 0.0012, Epsilon: 0.194
+Episode 57, Avg Q: -1.4383
+Episode 57, Reward: -21.0, Loss: 0.0624, Epsilon: 0.189
+Episode 58, Avg Q: -1.5463
+Episode 58, Reward: -21.0, Loss: 0.0048, Epsilon: 0.184
+Episode 59, Avg Q: -1.6377
+Episode 59, Reward: -21.0, Loss: 0.0022, Epsilon: 0.179
+Episode 60, Avg Q: -1.7205
+Episode 60, Reward: -20.0, Loss: 0.0093, Epsilon: 0.174
+Episode 61, Avg Q: -1.5350
+Episode 61, Reward: -21.0, Loss: 0.0048, Epsilon: 0.170
+Episode 62, Avg Q: -1.4721
+Episode 62, Reward: -21.0, Loss: 0.0361, Epsilon: 0.165
+Episode 63, Avg Q: -1.5564
+Episode 63, Reward: -20.0, Loss: 0.0045, Epsilon: 0.161
+Episode 64, Avg Q: -1.7594
+Episode 64, Reward: -21.0, Loss: 0.0054, Epsilon: 0.156
+Episode 65, Avg Q: -1.5145
+Episode 65, Reward: -21.0, Loss: 0.0366, Epsilon: 0.152
+Episode 66, Avg Q: -1.8159
+Episode 66, Reward: -21.0, Loss: 0.0126, Epsilon: 0.148
+Episode 67, Avg Q: -1.6838
+Episode 67, Reward: -21.0, Loss: 0.0256, Epsilon: 0.144
+Episode 68, Avg Q: -1.7642
+Episode 68, Reward: -21.0, Loss: 0.0242, Epsilon: 0.141
+Episode 69, Avg Q: -1.7720
+Episode 69, Reward: -20.0, Loss: 0.0175, Epsilon: 0.137
+Episode 70, Avg Q: -1.8754
+Episode 70, Reward: -19.0, Loss: 0.0305, Epsilon: 0.133
+Episode 71, Avg Q: -1.8779
+Episode 71, Reward: -21.0, Loss: 0.0053, Epsilon: 0.129
+Episode 72, Avg Q: -2.0049
+Episode 72, Reward: -21.0, Loss: 0.0432, Epsilon: 0.126
+Episode 73, Avg Q: -2.0089
+Episode 73, Reward: -21.0, Loss: 0.0071, Epsilon: 0.123
+Episode 74, Avg Q: -1.9136
+Episode 74, Reward: -21.0, Loss: 0.0297, Epsilon: 0.120
+Episode 75, Avg Q: -2.1196
+Episode 75, Reward: -19.0, Loss: 0.0120, Epsilon: 0.116
+Episode 76, Avg Q: -2.2800
+Episode 76, Reward: -20.0, Loss: 0.0060, Epsilon: 0.113
+Episode 77, Avg Q: -2.2370
+Episode 77, Reward: -21.0, Loss: 0.0320, Epsilon: 0.110
+Episode 78, Avg Q: -2.4036
+Episode 78, Reward: -20.0, Loss: 0.0372, Epsilon: 0.107
+Episode 79, Avg Q: -2.2804
+Episode 79, Reward: -20.0, Loss: 0.0131, Epsilon: 0.104
+Episode 80, Avg Q: -2.4014
+Episode 80, Reward: -21.0, Loss: 0.0024, Epsilon: 0.102
+Episode 81, Avg Q: -2.3579
+Episode 81, Reward: -21.0, Loss: 0.0085, Epsilon: 0.099
+Episode 82, Avg Q: -2.4142
+Episode 82, Reward: -21.0, Loss: 0.0040, Epsilon: 0.097
+Episode 83, Avg Q: -2.5068
+Episode 83, Reward: -21.0, Loss: 0.0027, Epsilon: 0.094
+Episode 84, Avg Q: -2.3318
+Episode 84, Reward: -21.0, Loss: 0.0158, Epsilon: 0.092
+Episode 85, Avg Q: -2.5215
+Episode 85, Reward: -21.0, Loss: 0.0046, Epsilon: 0.090
+Episode 86, Avg Q: -2.5824
+Episode 86, Reward: -21.0, Loss: 0.0091, Epsilon: 0.088
+Episode 87, Avg Q: -2.5756
+Episode 87, Reward: -19.0, Loss: 0.0019, Epsilon: 0.085
+Episode 88, Avg Q: -2.6092
+Episode 88, Reward: -21.0, Loss: 0.0168, Epsilon: 0.083
+Episode 89, Avg Q: -2.4116
+Episode 89, Reward: -20.0, Loss: 0.0035, Epsilon: 0.080
+Episode 90, Avg Q: -2.3673
+Episode 90, Reward: -20.0, Loss: 0.0493, Epsilon: 0.078
+Episode 91, Avg Q: -2.1875
+Episode 91, Reward: -20.0, Loss: 0.0352, Epsilon: 0.076
+Episode 92, Avg Q: -2.2007
+Episode 92, Reward: -21.0, Loss: 0.0043, Epsilon: 0.074
+Episode 93, Avg Q: -2.2748
+Episode 93, Reward: -21.0, Loss: 0.0039, Epsilon: 0.073
+Episode 94, Avg Q: -2.2975
+Episode 94, Reward: -21.0, Loss: 0.0116, Epsilon: 0.071
+Episode 95, Avg Q: -2.4001
+Episode 95, Reward: -21.0, Loss: 0.0152, Epsilon: 0.069
+Episode 96, Avg Q: -2.3009
+Episode 96, Reward: -21.0, Loss: 0.0055, Epsilon: 0.067
+Episode 97, Avg Q: -2.3733
+Episode 97, Reward: -21.0, Loss: 0.0245, Epsilon: 0.066
+Episode 98, Avg Q: -2.3554
+Episode 98, Reward: -19.0, Loss: 0.0191, Epsilon: 0.064
+Episode 99, Avg Q: -2.2721
+Saving weights at Episode 100 ...
+Episode 99, Reward: -20.0, Loss: 0.0123, Epsilon: 0.063
+Episode 100, Avg Q: -2.3614
+Episode 100, Reward: -21.0, Loss: 0.0043, Epsilon: 0.061
+Episode 101, Avg Q: -2.3196
+Episode 101, Reward: -21.0, Loss: 0.0145, Epsilon: 0.060
+Episode 102, Avg Q: -2.4087
+Episode 102, Reward: -21.0, Loss: 0.0091, Epsilon: 0.059
+Episode 103, Avg Q: -2.3584
+Episode 103, Reward: -21.0, Loss: 0.0097, Epsilon: 0.057
+Episode 104, Avg Q: -2.2944
+Episode 104, Reward: -20.0, Loss: 0.0081, Epsilon: 0.056
+Episode 105, Avg Q: -2.4100
+Episode 105, Reward: -21.0, Loss: 0.0027, Epsilon: 0.055
+Episode 106, Avg Q: -2.3092
+Episode 106, Reward: -20.0, Loss: 0.0028, Epsilon: 0.053
+Episode 107, Avg Q: -2.3499
+Episode 107, Reward: -20.0, Loss: 0.0059, Epsilon: 0.052
+Episode 108, Avg Q: -2.3126
+Episode 108, Reward: -21.0, Loss: 0.0078, Epsilon: 0.051
+Episode 109, Avg Q: -2.1941
+Episode 109, Reward: -21.0, Loss: 0.0124, Epsilon: 0.050
+Episode 110, Avg Q: -2.2140
+Episode 110, Reward: -21.0, Loss: 0.0149, Epsilon: 0.049
+Episode 111, Avg Q: -2.2691
+Episode 111, Reward: -21.0, Loss: 0.0217, Epsilon: 0.048
+Episode 112, Avg Q: -2.2247
+Episode 112, Reward: -21.0, Loss: 0.0120, Epsilon: 0.047
+Episode 113, Avg Q: -2.1667
+Episode 113, Reward: -21.0, Loss: 0.0432, Epsilon: 0.046
+Episode 114, Avg Q: -2.2747
+Episode 114, Reward: -21.0, Loss: 0.0111, Epsilon: 0.045
+Episode 115, Avg Q: -2.2848
+Episode 115, Reward: -21.0, Loss: 0.0038, Epsilon: 0.044
+Episode 116, Avg Q: -2.2448
+Episode 116, Reward: -20.0, Loss: 0.0142, Epsilon: 0.043
+Episode 117, Avg Q: -2.1420
+Episode 117, Reward: -20.0, Loss: 0.0038, Epsilon: 0.042
+Episode 118, Avg Q: -2.2908
+Episode 118, Reward: -21.0, Loss: 0.0041, Epsilon: 0.041
+Episode 119, Avg Q: -2.1968
+Episode 119, Reward: -21.0, Loss: 0.0067, Epsilon: 0.040
+Episode 120, Avg Q: -2.3809
+Episode 120, Reward: -21.0, Loss: 0.0020, Epsilon: 0.039
+Episode 121, Avg Q: -2.3318
+Episode 121, Reward: -20.0, Loss: 0.0033, Epsilon: 0.038
+Episode 122, Avg Q: -2.3366
+Episode 122, Reward: -21.0, Loss: 0.0077, Epsilon: 0.038
+Episode 123, Avg Q: -2.4673
+Episode 123, Reward: -21.0, Loss: 0.0047, Epsilon: 0.037
+Episode 124, Avg Q: -2.4892
+Episode 124, Reward: -21.0, Loss: 0.0391, Epsilon: 0.036
+Episode 125, Avg Q: -2.5091
+Episode 125, Reward: -21.0, Loss: 0.0268, Epsilon: 0.035
+Episode 126, Avg Q: -2.3694
+Episode 126, Reward: -20.0, Loss: 0.0039, Epsilon: 0.035
+Episode 127, Avg Q: -2.2922
+Episode 127, Reward: -21.0, Loss: 0.0033, Epsilon: 0.034
+Episode 128, Avg Q: -2.3244
+Episode 128, Reward: -21.0, Loss: 0.0035, Epsilon: 0.033
+Episode 129, Avg Q: -2.2371
+Episode 129, Reward: -20.0, Loss: 0.0029, Epsilon: 0.033
+Episode 130, Avg Q: -2.2171
+Episode 130, Reward: -21.0, Loss: 0.0052, Epsilon: 0.032
+Episode 131, Avg Q: -2.2838
+Episode 131, Reward: -21.0, Loss: 0.0050, Epsilon: 0.031
+Episode 132, Avg Q: -2.1783
+Episode 132, Reward: -21.0, Loss: 0.0031, Epsilon: 0.031
+Episode 133, Avg Q: -2.1665
+Episode 133, Reward: -21.0, Loss: 0.0032, Epsilon: 0.030
+Episode 134, Avg Q: -2.0928
+Episode 134, Reward: -21.0, Loss: 0.0044, Epsilon: 0.030
+Episode 135, Avg Q: -2.1082
+Episode 135, Reward: -21.0, Loss: 0.0189, Epsilon: 0.029
+Episode 136, Avg Q: -1.9877
+Episode 136, Reward: -21.0, Loss: 0.0147, Epsilon: 0.029
+Episode 137, Avg Q: -1.9787
+Episode 137, Reward: -20.0, Loss: 0.0029, Epsilon: 0.028
+Episode 138, Avg Q: -1.9872
+Episode 138, Reward: -21.0, Loss: 0.0074, Epsilon: 0.028
+Episode 139, Avg Q: -1.9135
+Episode 139, Reward: -21.0, Loss: 0.0087, Epsilon: 0.027
+Episode 140, Avg Q: -2.0388
+Episode 140, Reward: -21.0, Loss: 0.0110, Epsilon: 0.027
+Episode 141, Avg Q: -1.9656
+Episode 141, Reward: -21.0, Loss: 0.0070, Epsilon: 0.026
+Episode 142, Avg Q: -1.9281
+Episode 142, Reward: -20.0, Loss: 0.0117, Epsilon: 0.026
+Episode 143, Avg Q: -1.9581
+Episode 143, Reward: -20.0, Loss: 0.0022, Epsilon: 0.025
+Episode 144, Avg Q: -1.9014
+Episode 144, Reward: -20.0, Loss: 0.0091, Epsilon: 0.025
+Episode 145, Avg Q: -1.9331
+Episode 145, Reward: -21.0, Loss: 0.0035, Epsilon: 0.024
+Episode 146, Avg Q: -1.8280
+Episode 146, Reward: -21.0, Loss: 0.0028, Epsilon: 0.024
+Episode 147, Avg Q: -1.8139
+Episode 147, Reward: -20.0, Loss: 0.0052, Epsilon: 0.023
+Episode 148, Avg Q: -1.7426
+Episode 148, Reward: -21.0, Loss: 0.0057, Epsilon: 0.023
+Episode 149, Avg Q: -1.7714
+Episode 149, Reward: -18.0, Loss: 0.0040, Epsilon: 0.023
+Episode 150, Avg Q: -1.7952
+Episode 150, Reward: -20.0, Loss: 0.0024, Epsilon: 0.022
+Episode 151, Avg Q: -1.8842
+Episode 151, Reward: -21.0, Loss: 0.0055, Epsilon: 0.022
+Episode 152, Avg Q: -1.8282
+Episode 152, Reward: -21.0, Loss: 0.0093, Epsilon: 0.021
+Episode 153, Avg Q: -1.8239
+Episode 153, Reward: -21.0, Loss: 0.0082, Epsilon: 0.021
+Episode 154, Avg Q: -1.7901
+Episode 154, Reward: -21.0, Loss: 0.0026, Epsilon: 0.021
+Episode 155, Avg Q: -1.8722
+Episode 155, Reward: -21.0, Loss: 0.0041, Epsilon: 0.021
+Episode 156, Avg Q: -1.7486
+Episode 156, Reward: -20.0, Loss: 0.0014, Epsilon: 0.020
+Episode 157, Avg Q: -1.8979
+Episode 157, Reward: -21.0, Loss: 0.0029, Epsilon: 0.020
+Episode 158, Avg Q: -1.8702
+Episode 158, Reward: -21.0, Loss: 0.0081, Epsilon: 0.020
+Episode 159, Avg Q: -1.8698
+Episode 159, Reward: -21.0, Loss: 0.0079, Epsilon: 0.019
+Episode 160, Avg Q: -1.7967
+Episode 160, Reward: -21.0, Loss: 0.0038, Epsilon: 0.019
+Episode 161, Avg Q: -1.9447
+Episode 161, Reward: -21.0, Loss: 0.0046, Epsilon: 0.019
+Episode 162, Avg Q: -1.9199
+Episode 162, Reward: -21.0, Loss: 0.0022, Epsilon: 0.019
+Episode 163, Avg Q: -1.9371
+Episode 163, Reward: -21.0, Loss: 0.0046, Epsilon: 0.018
+Episode 164, Avg Q: -1.9927
+Episode 164, Reward: -21.0, Loss: 0.0075, Epsilon: 0.018
+Episode 165, Avg Q: -1.9312
+Episode 165, Reward: -20.0, Loss: 0.0091, Epsilon: 0.018
+Episode 166, Avg Q: -2.0015
+Episode 166, Reward: -21.0, Loss: 0.0044, Epsilon: 0.018
+Episode 167, Avg Q: -1.8840
+Episode 167, Reward: -20.0, Loss: 0.0033, Epsilon: 0.017
+Episode 168, Avg Q: -1.9166
+Episode 168, Reward: -21.0, Loss: 0.0050, Epsilon: 0.017
+Episode 169, Avg Q: -1.8666
+Episode 169, Reward: -20.0, Loss: 0.0018, Epsilon: 0.017
+Episode 170, Avg Q: -1.9339
+Episode 170, Reward: -21.0, Loss: 0.0009, Epsilon: 0.017
+Episode 171, Avg Q: -1.9021
+Episode 171, Reward: -21.0, Loss: 0.0063, Epsilon: 0.017
+Episode 172, Avg Q: -1.8165
+Episode 172, Reward: -20.0, Loss: 0.0020, Epsilon: 0.016
+Episode 173, Avg Q: -1.7759
+Episode 173, Reward: -20.0, Loss: 0.0087, Epsilon: 0.016
+Episode 174, Avg Q: -1.8105
+Episode 174, Reward: -20.0, Loss: 0.0023, Epsilon: 0.016
+Episode 175, Avg Q: -1.8287
+Episode 175, Reward: -21.0, Loss: 0.0069, Epsilon: 0.016
+Episode 176, Avg Q: -1.8414
+Episode 176, Reward: -21.0, Loss: 0.0029, Epsilon: 0.016
+Episode 177, Avg Q: -1.7813
+Episode 177, Reward: -21.0, Loss: 0.0070, Epsilon: 0.015
+Episode 178, Avg Q: -1.7690
+Episode 178, Reward: -20.0, Loss: 0.0057, Epsilon: 0.015
+Episode 179, Avg Q: -1.7589
+Episode 179, Reward: -21.0, Loss: 0.0027, Epsilon: 0.015
+Episode 180, Avg Q: -1.6918
+Episode 180, Reward: -20.0, Loss: 0.0041, Epsilon: 0.015
+Episode 181, Avg Q: -1.7392
+Episode 181, Reward: -20.0, Loss: 0.0077, Epsilon: 0.015
+Episode 182, Avg Q: -1.5683
+Episode 182, Reward: -19.0, Loss: 0.0020, Epsilon: 0.015
+Episode 183, Avg Q: -1.6880
+Episode 183, Reward: -21.0, Loss: 0.0050, Epsilon: 0.015
+Episode 184, Avg Q: -1.7306
+Episode 184, Reward: -20.0, Loss: 0.0019, Epsilon: 0.014
+Episode 185, Avg Q: -1.8389
+Episode 185, Reward: -20.0, Loss: 0.0019, Epsilon: 0.014
+Episode 186, Avg Q: -1.7944
+Episode 186, Reward: -20.0, Loss: 0.0054, Epsilon: 0.014
+Episode 187, Avg Q: -1.6893
+Episode 187, Reward: -19.0, Loss: 0.0068, Epsilon: 0.014
+Episode 188, Avg Q: -1.7665
+Episode 188, Reward: -20.0, Loss: 0.0050, Epsilon: 0.014
+Episode 189, Avg Q: -1.8024
+Episode 189, Reward: -20.0, Loss: 0.0023, Epsilon: 0.014
+Episode 190, Avg Q: -1.8225
+Episode 190, Reward: -21.0, Loss: 0.0051, Epsilon: 0.014
+Episode 191, Avg Q: -1.6991
+Episode 191, Reward: -20.0, Loss: 0.0042, Epsilon: 0.013
+Episode 192, Avg Q: -1.7044
+Episode 192, Reward: -20.0, Loss: 0.0024, Epsilon: 0.013
+Episode 193, Avg Q: -1.7351
+Episode 193, Reward: -21.0, Loss: 0.0073, Epsilon: 0.013
+Episode 194, Avg Q: -1.7359
+Episode 194, Reward: -21.0, Loss: 0.0040, Epsilon: 0.013
+Episode 195, Avg Q: -1.7172
+Episode 195, Reward: -20.0, Loss: 0.0125, Epsilon: 0.013
+Episode 196, Avg Q: -1.7379
+Episode 196, Reward: -21.0, Loss: 0.0044, Epsilon: 0.013
+Episode 197, Avg Q: -1.7158
+Episode 197, Reward: -21.0, Loss: 0.0038, Epsilon: 0.013
+Episode 198, Avg Q: -1.6234
+Episode 198, Reward: -17.0, Loss: 0.0047, Epsilon: 0.013
+Episode 199, Avg Q: -1.7357
+Saving weights at Episode 200 ...
+Episode 199, Reward: -21.0, Loss: 0.0072, Epsilon: 0.013
+Episode 200, Avg Q: -1.6187
+Episode 200, Reward: -19.0, Loss: 0.0037, Epsilon: 0.013
+Episode 201, Avg Q: -1.6154
+Episode 201, Reward: -19.0, Loss: 0.0030, Epsilon: 0.012
+Episode 202, Avg Q: -1.6216
+Episode 202, Reward: -21.0, Loss: 0.0011, Epsilon: 0.012
+Episode 203, Avg Q: -1.6429
+Episode 203, Reward: -20.0, Loss: 0.0055, Epsilon: 0.012
+Episode 204, Avg Q: -1.6959
+Episode 204, Reward: -20.0, Loss: 0.0077, Epsilon: 0.012
+Episode 205, Avg Q: -1.5602
+Episode 205, Reward: -20.0, Loss: 0.0093, Epsilon: 0.012
+Episode 206, Avg Q: -1.6493
+Episode 206, Reward: -20.0, Loss: 0.0109, Epsilon: 0.012
+Episode 207, Avg Q: -1.6705
+Episode 207, Reward: -20.0, Loss: 0.0104, Epsilon: 0.012
+Episode 208, Avg Q: -1.7197
+Episode 208, Reward: -20.0, Loss: 0.0045, Epsilon: 0.012
+Episode 209, Avg Q: -1.7708
+Episode 209, Reward: -21.0, Loss: 0.0116, Epsilon: 0.012
+Episode 210, Avg Q: -1.6062
+Episode 210, Reward: -20.0, Loss: 0.0033, Epsilon: 0.012
+Episode 211, Avg Q: -1.6134
+Episode 211, Reward: -21.0, Loss: 0.0065, Epsilon: 0.012
+Episode 212, Avg Q: -1.6082
+Episode 212, Reward: -20.0, Loss: 0.0033, Epsilon: 0.012
+Episode 213, Avg Q: -1.6242
+Episode 213, Reward: -21.0, Loss: 0.0013, Epsilon: 0.012
+Episode 214, Avg Q: -1.6755
+Episode 214, Reward: -20.0, Loss: 0.0074, Epsilon: 0.012
+Episode 215, Avg Q: -1.6019
+Episode 215, Reward: -19.0, Loss: 0.0053, Epsilon: 0.012
+Episode 216, Avg Q: -1.4580
+Episode 216, Reward: -19.0, Loss: 0.0015, Epsilon: 0.012
+Episode 217, Avg Q: -1.4298
+Episode 217, Reward: -17.0, Loss: 0.0116, Epsilon: 0.011
+Episode 218, Avg Q: -1.4732
+Episode 218, Reward: -19.0, Loss: 0.0084, Epsilon: 0.011
+Episode 219, Avg Q: -1.5704
+Episode 219, Reward: -19.0, Loss: 0.0008, Epsilon: 0.011
+Episode 220, Avg Q: -1.5155
+Episode 220, Reward: -21.0, Loss: 0.0077, Epsilon: 0.011
+Episode 221, Avg Q: -1.5982
+Episode 221, Reward: -21.0, Loss: 0.0024, Epsilon: 0.011
+Episode 222, Avg Q: -1.5589
+Episode 222, Reward: -19.0, Loss: 0.0031, Epsilon: 0.011
+Episode 223, Avg Q: -1.4911
+Episode 223, Reward: -20.0, Loss: 0.0026, Epsilon: 0.011
+Episode 224, Avg Q: -1.5288
+Episode 224, Reward: -20.0, Loss: 0.0028, Epsilon: 0.011
+Episode 225, Avg Q: -1.5653
+Episode 225, Reward: -20.0, Loss: 0.0013, Epsilon: 0.011
+Episode 226, Avg Q: -1.4367
+Episode 226, Reward: -20.0, Loss: 0.0081, Epsilon: 0.011
+Episode 227, Avg Q: -1.4665
+Episode 227, Reward: -19.0, Loss: 0.0106, Epsilon: 0.011
+Episode 228, Avg Q: -1.5053
+Episode 228, Reward: -20.0, Loss: 0.0027, Epsilon: 0.011
+Episode 229, Avg Q: -1.5772
+Episode 229, Reward: -21.0, Loss: 0.0076, Epsilon: 0.011
+Episode 230, Avg Q: -1.5082
+Episode 230, Reward: -16.0, Loss: 0.0089, Epsilon: 0.011
+Episode 231, Avg Q: -1.4822
+Episode 231, Reward: -19.0, Loss: 0.0032, Epsilon: 0.011
+Episode 232, Avg Q: -1.5463
+Episode 232, Reward: -20.0, Loss: 0.0069, Epsilon: 0.011
+Episode 233, Avg Q: -1.4128
+Episode 233, Reward: -18.0, Loss: 0.0028, Epsilon: 0.011
+Episode 234, Avg Q: -1.4496
+Episode 234, Reward: -19.0, Loss: 0.0151, Epsilon: 0.011
+Episode 235, Avg Q: -1.5872
+Episode 235, Reward: -21.0, Loss: 0.0031, Epsilon: 0.011
+Episode 236, Avg Q: -1.6071
+Episode 236, Reward: -19.0, Loss: 0.0034, Epsilon: 0.011
+Episode 237, Avg Q: -1.3127
+Episode 237, Reward: -17.0, Loss: 0.0041, Epsilon: 0.011
+Episode 238, Avg Q: -1.5996
+Episode 238, Reward: -20.0, Loss: 0.0100, Epsilon: 0.011
+Episode 239, Avg Q: -1.5072
+Episode 239, Reward: -15.0, Loss: 0.0066, Epsilon: 0.011
+Episode 240, Avg Q: -1.5221
+Episode 240, Reward: -19.0, Loss: 0.0077, Epsilon: 0.011
+Episode 241, Avg Q: -1.5003
+Episode 241, Reward: -18.0, Loss: 0.0109, Epsilon: 0.011
+Episode 242, Avg Q: -1.5568
+Episode 242, Reward: -19.0, Loss: 0.0035, Epsilon: 0.011
+Episode 243, Avg Q: -1.4851
+Episode 243, Reward: -18.0, Loss: 0.0063, Epsilon: 0.011
+Episode 244, Avg Q: -1.7104
+Episode 244, Reward: -19.0, Loss: 0.0030, Epsilon: 0.011
+Episode 245, Avg Q: -1.6239
+Episode 245, Reward: -20.0, Loss: 0.0036, Epsilon: 0.011
+Episode 246, Avg Q: -1.6307
+Episode 246, Reward: -18.0, Loss: 0.0154, Epsilon: 0.011
+Episode 247, Avg Q: -1.6961
+Episode 247, Reward: -20.0, Loss: 0.0056, Epsilon: 0.010
+Episode 248, Avg Q: -1.7559
+Episode 248, Reward: -18.0, Loss: 0.0077, Epsilon: 0.010
+Episode 249, Avg Q: -1.6265
+Episode 249, Reward: -18.0, Loss: 0.0048, Epsilon: 0.010
+Episode 250, Avg Q: -1.6640
+Episode 250, Reward: -19.0, Loss: 0.0119, Epsilon: 0.010
+Episode 251, Avg Q: -1.6380
+Episode 251, Reward: -19.0, Loss: 0.0028, Epsilon: 0.010
+Episode 252, Avg Q: -1.5602
+Episode 252, Reward: -18.0, Loss: 0.0043, Epsilon: 0.010
+Episode 253, Avg Q: -1.6038
+Episode 253, Reward: -20.0, Loss: 0.0054, Epsilon: 0.010
+Episode 254, Avg Q: -1.6035
+Episode 254, Reward: -19.0, Loss: 0.0145, Epsilon: 0.010
+Episode 255, Avg Q: -1.5841
+Episode 255, Reward: -18.0, Loss: 0.0100, Epsilon: 0.010
+Episode 256, Avg Q: -1.6544
+Episode 256, Reward: -20.0, Loss: 0.0048, Epsilon: 0.010
+Episode 257, Avg Q: -1.5466
+Episode 257, Reward: -20.0, Loss: 0.0044, Epsilon: 0.010
+Episode 258, Avg Q: -1.4772
+Episode 258, Reward: -17.0, Loss: 0.0074, Epsilon: 0.010
+Episode 259, Avg Q: -1.6259
+Episode 259, Reward: -18.0, Loss: 0.0074, Epsilon: 0.010
+Episode 260, Avg Q: -1.5825
+Episode 260, Reward: -18.0, Loss: 0.0057, Epsilon: 0.010
+Episode 261, Avg Q: -1.5939
+Episode 261, Reward: -19.0, Loss: 0.0119, Epsilon: 0.010
+Episode 262, Avg Q: -1.5290
+Episode 262, Reward: -21.0, Loss: 0.0067, Epsilon: 0.010
+Episode 263, Avg Q: -1.4944
+Episode 263, Reward: -18.0, Loss: 0.0058, Epsilon: 0.010
+Episode 264, Avg Q: -1.6342
+Episode 264, Reward: -21.0, Loss: 0.0131, Epsilon: 0.010
+Episode 265, Avg Q: -1.5999
+Episode 265, Reward: -20.0, Loss: 0.0033, Epsilon: 0.010
+Episode 266, Avg Q: -1.5506
+Episode 266, Reward: -19.0, Loss: 0.0046, Epsilon: 0.010
+Episode 267, Avg Q: -1.4937
+Episode 267, Reward: -20.0, Loss: 0.0233, Epsilon: 0.010
+Episode 268, Avg Q: -1.5016
+Episode 268, Reward: -20.0, Loss: 0.0078, Epsilon: 0.010
+Episode 269, Avg Q: -1.5140
+Episode 269, Reward: -20.0, Loss: 0.0070, Epsilon: 0.010
+Episode 270, Avg Q: -1.4883
+Episode 270, Reward: -19.0, Loss: 0.0034, Epsilon: 0.010
+Episode 271, Avg Q: -1.5211
+Episode 271, Reward: -21.0, Loss: 0.0227, Epsilon: 0.010
+Episode 272, Avg Q: -1.4474
+Episode 272, Reward: -20.0, Loss: 0.0184, Epsilon: 0.010
+Episode 273, Avg Q: -1.3356
+Episode 273, Reward: -20.0, Loss: 0.0089, Epsilon: 0.010
+Episode 274, Avg Q: -1.3744
+Episode 274, Reward: -18.0, Loss: 0.0051, Epsilon: 0.010
+Episode 275, Avg Q: -1.4091
+Episode 275, Reward: -19.0, Loss: 0.0050, Epsilon: 0.010
+Episode 276, Avg Q: -1.5055
+Episode 276, Reward: -20.0, Loss: 0.0108, Epsilon: 0.010
+Episode 277, Avg Q: -1.4013
+Episode 277, Reward: -20.0, Loss: 0.0067, Epsilon: 0.010
+Episode 278, Avg Q: -1.4547
+Episode 278, Reward: -20.0, Loss: 0.0161, Epsilon: 0.010
+Episode 279, Avg Q: -1.3334
+Episode 279, Reward: -16.0, Loss: 0.0074, Epsilon: 0.010
+Episode 280, Avg Q: -1.3862
+Episode 280, Reward: -20.0, Loss: 0.0079, Epsilon: 0.010
+Episode 281, Avg Q: -1.4671
+Episode 281, Reward: -21.0, Loss: 0.0041, Epsilon: 0.010
+Episode 282, Avg Q: -1.1173
+Episode 282, Reward: -18.0, Loss: 0.0117, Epsilon: 0.010
+Episode 283, Avg Q: -1.1240
+Episode 283, Reward: -18.0, Loss: 0.0109, Epsilon: 0.010
+Episode 284, Avg Q: -1.3093
+Episode 284, Reward: -21.0, Loss: 0.0034, Epsilon: 0.010
+Episode 285, Avg Q: -1.2901
+Episode 285, Reward: -19.0, Loss: 0.0100, Epsilon: 0.010
+Episode 286, Avg Q: -1.2545
+Episode 286, Reward: -20.0, Loss: 0.0049, Epsilon: 0.010
+Episode 287, Avg Q: -1.2829
+Episode 287, Reward: -19.0, Loss: 0.0056, Epsilon: 0.010
+Episode 288, Avg Q: -1.2615
+Episode 288, Reward: -19.0, Loss: 0.0086, Epsilon: 0.010
+Episode 289, Avg Q: -1.2806
+Episode 289, Reward: -21.0, Loss: 0.0125, Epsilon: 0.010
+Episode 290, Avg Q: -1.2456
+Episode 290, Reward: -19.0, Loss: 0.0056, Epsilon: 0.010
+Episode 291, Avg Q: -1.2597
+Episode 291, Reward: -21.0, Loss: 0.0074, Epsilon: 0.010
+Episode 292, Avg Q: -1.2281
+Episode 292, Reward: -19.0, Loss: 0.0043, Epsilon: 0.010
+Episode 293, Avg Q: -1.3113
+Episode 293, Reward: -19.0, Loss: 0.0093, Epsilon: 0.010
+Episode 294, Avg Q: -1.3097
+Episode 294, Reward: -19.0, Loss: 0.0111, Epsilon: 0.010
+Episode 295, Avg Q: -1.3099
+Episode 295, Reward: -19.0, Loss: 0.0155, Epsilon: 0.010
+Episode 296, Avg Q: -1.3204
+Episode 296, Reward: -20.0, Loss: 0.0095, Epsilon: 0.010
+Episode 297, Avg Q: -1.4182
+Episode 297, Reward: -20.0, Loss: 0.0132, Epsilon: 0.010
+Episode 298, Avg Q: -1.3617
+Episode 298, Reward: -18.0, Loss: 0.0099, Epsilon: 0.010
+Episode 299, Avg Q: -1.4207
+Saving weights at Episode 300 ...
+Episode 299, Reward: -19.0, Loss: 0.0053, Epsilon: 0.010
+Episode 300, Avg Q: -1.4156
+Episode 300, Reward: -17.0, Loss: 0.0030, Epsilon: 0.010
+Episode 301, Avg Q: -1.3968
+Episode 301, Reward: -16.0, Loss: 0.0103, Epsilon: 0.010
+Episode 302, Avg Q: -1.4955
+Episode 302, Reward: -18.0, Loss: 0.0035, Epsilon: 0.010
+Episode 303, Avg Q: -1.4665
+Episode 303, Reward: -19.0, Loss: 0.0044, Epsilon: 0.010
+Episode 304, Avg Q: -1.5162
+Episode 304, Reward: -19.0, Loss: 0.0126, Epsilon: 0.010
+Episode 305, Avg Q: -1.3949
+Episode 305, Reward: -16.0, Loss: 0.0058, Epsilon: 0.010
+Episode 306, Avg Q: -1.3221
+Episode 306, Reward: -19.0, Loss: 0.0030, Epsilon: 0.010
+Episode 307, Avg Q: -1.4042
+Episode 307, Reward: -20.0, Loss: 0.0055, Epsilon: 0.010
+Episode 308, Avg Q: -1.3569
+Episode 308, Reward: -18.0, Loss: 0.0078, Epsilon: 0.010
+Episode 309, Avg Q: -1.2644
+Episode 309, Reward: -12.0, Loss: 0.0101, Epsilon: 0.010
+Episode 310, Avg Q: -1.2691
+Episode 310, Reward: -19.0, Loss: 0.0047, Epsilon: 0.010
+Episode 311, Avg Q: -1.1721
+Episode 311, Reward: -17.0, Loss: 0.0042, Epsilon: 0.010
+Episode 312, Avg Q: -1.3765
+Episode 312, Reward: -18.0, Loss: 0.0205, Epsilon: 0.010
+Episode 313, Avg Q: -1.2468
+Episode 313, Reward: -19.0, Loss: 0.0048, Epsilon: 0.010
+Episode 314, Avg Q: -1.3101
+Episode 314, Reward: -20.0, Loss: 0.0056, Epsilon: 0.010
+Episode 315, Avg Q: -1.3491
+Episode 315, Reward: -19.0, Loss: 0.0094, Epsilon: 0.010
+Episode 316, Avg Q: -1.3500
+Episode 316, Reward: -19.0, Loss: 0.0180, Epsilon: 0.010
+Episode 317, Avg Q: -1.2624
+Episode 317, Reward: -18.0, Loss: 0.0046, Epsilon: 0.010
+Episode 318, Avg Q: -1.3153
+Episode 318, Reward: -19.0, Loss: 0.0085, Epsilon: 0.010
+Episode 319, Avg Q: -1.3403
+Episode 319, Reward: -17.0, Loss: 0.0076, Epsilon: 0.010
+Episode 320, Avg Q: -1.2326
+Episode 320, Reward: -15.0, Loss: 0.0172, Epsilon: 0.010
+Episode 321, Avg Q: -1.3837
+Episode 321, Reward: -17.0, Loss: 0.0108, Epsilon: 0.010
+Episode 322, Avg Q: -1.3079
+Episode 322, Reward: -17.0, Loss: 0.0048, Epsilon: 0.010
+Episode 323, Avg Q: -1.2851
+Episode 323, Reward: -19.0, Loss: 0.0021, Epsilon: 0.010
+Episode 324, Avg Q: -1.2420
+Episode 324, Reward: -18.0, Loss: 0.0097, Epsilon: 0.010
+Episode 325, Avg Q: -1.2100
+Episode 325, Reward: -14.0, Loss: 0.0036, Epsilon: 0.010
+Episode 326, Avg Q: -1.1601
+Episode 326, Reward: -19.0, Loss: 0.0142, Epsilon: 0.010
+Episode 327, Avg Q: -1.1237
+Episode 327, Reward: -19.0, Loss: 0.0163, Epsilon: 0.010
+Episode 328, Avg Q: -1.1329
+Episode 328, Reward: -18.0, Loss: 0.0065, Epsilon: 0.010
+Episode 329, Avg Q: -1.0698
+Episode 329, Reward: -16.0, Loss: 0.0053, Epsilon: 0.010
+Episode 330, Avg Q: -0.9459
+Episode 330, Reward: -14.0, Loss: 0.0112, Epsilon: 0.010
+Episode 331, Avg Q: -0.9428
+Episode 331, Reward: -13.0, Loss: 0.0045, Epsilon: 0.010
+Episode 332, Avg Q: -0.9608
+Episode 332, Reward: -16.0, Loss: 0.0040, Epsilon: 0.010
+Episode 333, Avg Q: -1.0437
+Episode 333, Reward: -19.0, Loss: 0.0033, Epsilon: 0.010
+Episode 334, Avg Q: -1.0480
+Episode 334, Reward: -16.0, Loss: 0.0073, Epsilon: 0.010
+Episode 335, Avg Q: -1.0436
+Episode 335, Reward: -15.0, Loss: 0.0102, Epsilon: 0.010
+Episode 336, Avg Q: -1.1449
+Episode 336, Reward: -18.0, Loss: 0.0091, Epsilon: 0.010
+Episode 337, Avg Q: -1.2070
+Episode 337, Reward: -17.0, Loss: 0.0035, Epsilon: 0.010
+Episode 338, Avg Q: -1.1025
+Episode 338, Reward: -15.0, Loss: 0.0141, Epsilon: 0.010
+Episode 339, Avg Q: -1.1081
+Episode 339, Reward: -18.0, Loss: 0.0256, Epsilon: 0.010
+Episode 340, Avg Q: -1.0328
+Episode 340, Reward: -15.0, Loss: 0.0056, Epsilon: 0.010
+Episode 341, Avg Q: -1.1013
+Episode 341, Reward: -16.0, Loss: 0.0070, Epsilon: 0.010
+Episode 342, Avg Q: -1.1031
+Episode 342, Reward: -19.0, Loss: 0.0049, Epsilon: 0.010
+Episode 343, Avg Q: -1.0831
+Episode 343, Reward: -19.0, Loss: 0.0034, Epsilon: 0.010
+Episode 344, Avg Q: -1.0760
+Episode 344, Reward: -20.0, Loss: 0.0127, Epsilon: 0.010
+Episode 345, Avg Q: -1.0595
+Episode 345, Reward: -20.0, Loss: 0.0122, Epsilon: 0.010
+Episode 346, Avg Q: -1.0325
+Episode 346, Reward: -15.0, Loss: 0.0060, Epsilon: 0.010
+Episode 347, Avg Q: -1.0080
+Episode 347, Reward: -18.0, Loss: 0.0182, Epsilon: 0.010
+Episode 348, Avg Q: -1.0057
+Episode 348, Reward: -18.0, Loss: 0.0050, Epsilon: 0.010
+Episode 349, Avg Q: -1.0384
+Episode 349, Reward: -16.0, Loss: 0.0151, Epsilon: 0.010
+Episode 350, Avg Q: -0.9751
+Episode 350, Reward: -12.0, Loss: 0.0097, Epsilon: 0.010
+Episode 351, Avg Q: -0.8607
+Episode 351, Reward: -7.0, Loss: 0.0031, Epsilon: 0.010
+Episode 352, Avg Q: -1.0524
+Episode 352, Reward: -15.0, Loss: 0.0092, Epsilon: 0.010
+Episode 353, Avg Q: -0.9968
+Episode 353, Reward: -16.0, Loss: 0.0046, Epsilon: 0.010
+Episode 354, Avg Q: -0.8974
+Episode 354, Reward: -18.0, Loss: 0.0054, Epsilon: 0.010
+Episode 355, Avg Q: -0.8410
+Episode 355, Reward: -15.0, Loss: 0.0049, Epsilon: 0.010
+Episode 356, Avg Q: -0.8899
+Episode 356, Reward: -16.0, Loss: 0.0097, Epsilon: 0.010
+Episode 357, Avg Q: -0.8638
+Episode 357, Reward: -18.0, Loss: 0.0057, Epsilon: 0.010
+Episode 358, Avg Q: -0.7538
+Episode 358, Reward: -11.0, Loss: 0.0093, Epsilon: 0.010
+Episode 359, Avg Q: -0.6850
+Episode 359, Reward: -16.0, Loss: 0.0078, Epsilon: 0.010
+Episode 360, Avg Q: -0.6665
+Episode 360, Reward: -17.0, Loss: 0.0036, Epsilon: 0.010
+Episode 361, Avg Q: -0.5885
+Episode 361, Reward: -16.0, Loss: 0.0055, Epsilon: 0.010
+Episode 362, Avg Q: -0.5901
+Episode 362, Reward: -14.0, Loss: 0.0059, Epsilon: 0.010
+Episode 363, Avg Q: -0.5611
+Episode 363, Reward: -17.0, Loss: 0.0120, Epsilon: 0.010
+Episode 364, Avg Q: -0.5740
+Episode 364, Reward: -15.0, Loss: 0.0073, Epsilon: 0.010
+Episode 365, Avg Q: -0.6846
+Episode 365, Reward: -18.0, Loss: 0.0085, Epsilon: 0.010
+Episode 366, Avg Q: -0.7311
+Episode 366, Reward: -17.0, Loss: 0.0129, Epsilon: 0.010
+Episode 367, Avg Q: -0.6230
+Episode 367, Reward: -19.0, Loss: 0.0071, Epsilon: 0.010
+Episode 368, Avg Q: -0.6618
+Episode 368, Reward: -17.0, Loss: 0.0085, Epsilon: 0.010
+Episode 369, Avg Q: -0.5989
+Episode 369, Reward: -17.0, Loss: 0.0048, Epsilon: 0.010
+Episode 370, Avg Q: -0.5855
+Episode 370, Reward: -15.0, Loss: 0.0113, Epsilon: 0.010
+Episode 371, Avg Q: -0.6342
+Episode 371, Reward: -15.0, Loss: 0.0095, Epsilon: 0.010
+Episode 372, Avg Q: -0.5917
+Episode 372, Reward: -16.0, Loss: 0.0042, Epsilon: 0.010
+Episode 373, Avg Q: -0.5901
+Episode 373, Reward: -14.0, Loss: 0.0028, Epsilon: 0.010
+Episode 374, Avg Q: -0.5885
+Episode 374, Reward: -16.0, Loss: 0.0065, Epsilon: 0.010
+Episode 375, Avg Q: -0.5126
+Episode 375, Reward: -16.0, Loss: 0.0053, Epsilon: 0.010
+Episode 376, Avg Q: -0.5161
+Episode 376, Reward: -15.0, Loss: 0.0060, Epsilon: 0.010
+Episode 377, Avg Q: -0.5564
+Episode 377, Reward: -20.0, Loss: 0.0148, Epsilon: 0.010
+Episode 378, Avg Q: -0.5013
+Episode 378, Reward: -17.0, Loss: 0.0034, Epsilon: 0.010
+Episode 379, Avg Q: -0.4180
+Episode 379, Reward: -13.0, Loss: 0.0066, Epsilon: 0.010
+Episode 380, Avg Q: -0.4219
+Episode 380, Reward: -15.0, Loss: 0.0167, Epsilon: 0.010
+Episode 381, Avg Q: -0.4249
+Episode 381, Reward: -13.0, Loss: 0.0140, Epsilon: 0.010
+Episode 382, Avg Q: -0.4443
+Episode 382, Reward: -18.0, Loss: 0.0178, Epsilon: 0.010
+Episode 383, Avg Q: -0.5216
+Episode 383, Reward: -19.0, Loss: 0.0036, Epsilon: 0.010
+Episode 384, Avg Q: -0.4772
+Episode 384, Reward: -19.0, Loss: 0.0023, Epsilon: 0.010
+Episode 385, Avg Q: -0.4145
+Episode 385, Reward: -15.0, Loss: 0.0035, Epsilon: 0.010
+Episode 386, Avg Q: -0.4721
+Episode 386, Reward: -17.0, Loss: 0.0042, Epsilon: 0.010
+Episode 387, Avg Q: -0.3965
+Episode 387, Reward: -15.0, Loss: 0.0075, Epsilon: 0.010
+Episode 388, Avg Q: -0.4354
+Episode 388, Reward: -15.0, Loss: 0.0056, Epsilon: 0.010
+Episode 389, Avg Q: -0.4801
+Episode 389, Reward: -17.0, Loss: 0.0029, Epsilon: 0.010
+Episode 390, Avg Q: -0.5234
+Episode 390, Reward: -12.0, Loss: 0.0056, Epsilon: 0.010
+Episode 391, Avg Q: -0.5475
+Episode 391, Reward: -15.0, Loss: 0.0058, Epsilon: 0.010
+Episode 392, Avg Q: -0.5657
+Episode 392, Reward: -13.0, Loss: 0.0058, Epsilon: 0.010
+Episode 393, Avg Q: -0.4973
+Episode 393, Reward: -14.0, Loss: 0.0040, Epsilon: 0.010
+Episode 394, Avg Q: -0.5587
+Episode 394, Reward: -14.0, Loss: 0.0101, Epsilon: 0.010
+Episode 395, Avg Q: -0.5420
+Episode 395, Reward: -19.0, Loss: 0.0037, Epsilon: 0.010
+Episode 396, Avg Q: -0.4916
+Episode 396, Reward: -12.0, Loss: 0.0071, Epsilon: 0.010
+Episode 397, Avg Q: -0.5340
+Episode 397, Reward: -16.0, Loss: 0.0235, Epsilon: 0.010
+Episode 398, Avg Q: -0.6430
+Episode 398, Reward: -20.0, Loss: 0.0041, Epsilon: 0.010
+Episode 399, Avg Q: -0.5910
+Saving weights at Episode 400 ...
+Episode 399, Reward: -16.0, Loss: 0.0114, Epsilon: 0.010
+Episode 400, Avg Q: -0.5671
+Episode 400, Reward: -20.0, Loss: 0.0123, Epsilon: 0.010
+Episode 401, Avg Q: -0.4264
+Episode 401, Reward: -14.0, Loss: 0.0067, Epsilon: 0.010
+Episode 402, Avg Q: -0.3436
+Episode 402, Reward: -12.0, Loss: 0.0041, Epsilon: 0.010
+Episode 403, Avg Q: -0.3094
+Episode 403, Reward: -14.0, Loss: 0.0356, Epsilon: 0.010
+Episode 404, Avg Q: -0.3750
+Episode 404, Reward: -17.0, Loss: 0.0028, Epsilon: 0.010
+Episode 405, Avg Q: -0.3785
+Episode 405, Reward: -17.0, Loss: 0.0070, Epsilon: 0.010
+Episode 406, Avg Q: -0.3882
+Episode 406, Reward: -18.0, Loss: 0.0049, Epsilon: 0.010
+Episode 407, Avg Q: -0.3401
+Episode 407, Reward: -13.0, Loss: 0.0050, Epsilon: 0.010
+Episode 408, Avg Q: -0.3483
+Episode 408, Reward: -17.0, Loss: 0.0028, Epsilon: 0.010
+Episode 409, Avg Q: -0.4112
+Episode 409, Reward: -18.0, Loss: 0.0108, Epsilon: 0.010
+Episode 410, Avg Q: -0.3863
+Episode 410, Reward: -17.0, Loss: 0.0076, Epsilon: 0.010
+Episode 411, Avg Q: -0.4668
+Episode 411, Reward: -17.0, Loss: 0.0084, Epsilon: 0.010
+Episode 412, Avg Q: -0.4076
+Episode 412, Reward: -14.0, Loss: 0.0076, Epsilon: 0.010
+Episode 413, Avg Q: -0.4551
+Episode 413, Reward: -16.0, Loss: 0.0077, Epsilon: 0.010
+Episode 414, Avg Q: -0.4089
+Episode 414, Reward: -15.0, Loss: 0.0271, Epsilon: 0.010
+Episode 415, Avg Q: -0.3740
+Episode 415, Reward: -13.0, Loss: 0.0064, Epsilon: 0.010
+Episode 416, Avg Q: -0.4041
+Episode 416, Reward: -18.0, Loss: 0.0137, Epsilon: 0.010
+Episode 417, Avg Q: -0.4334
+Episode 417, Reward: -20.0, Loss: 0.0056, Epsilon: 0.010
+Episode 418, Avg Q: -0.3919
+Episode 418, Reward: -18.0, Loss: 0.0040, Epsilon: 0.010
+Episode 419, Avg Q: -0.4112
+Episode 419, Reward: -17.0, Loss: 0.0145, Epsilon: 0.010
+Episode 420, Avg Q: -0.4315
+Episode 420, Reward: -17.0, Loss: 0.0120, Epsilon: 0.010
+Episode 421, Avg Q: -0.4389
+Episode 421, Reward: -17.0, Loss: 0.0034, Epsilon: 0.010
+Episode 422, Avg Q: -0.4238
+Episode 422, Reward: -19.0, Loss: 0.0095, Epsilon: 0.010
+Episode 423, Avg Q: -0.3575
+Episode 423, Reward: -15.0, Loss: 0.0020, Epsilon: 0.010
+Episode 424, Avg Q: -0.3754
+Episode 424, Reward: -16.0, Loss: 0.0056, Epsilon: 0.010
+Episode 425, Avg Q: -0.4041
+Episode 425, Reward: -15.0, Loss: 0.0090, Epsilon: 0.010
+Episode 426, Avg Q: -0.5161
+Episode 426, Reward: -17.0, Loss: 0.0064, Epsilon: 0.010
+Episode 427, Avg Q: -0.5720
+Episode 427, Reward: -16.0, Loss: 0.0044, Epsilon: 0.010
+Episode 428, Avg Q: -0.4991
+Episode 428, Reward: -13.0, Loss: 0.0087, Epsilon: 0.010
+Episode 429, Avg Q: -0.5536
+Episode 429, Reward: -18.0, Loss: 0.0120, Epsilon: 0.010
+Episode 430, Avg Q: -0.4653
+Episode 430, Reward: -18.0, Loss: 0.0044, Epsilon: 0.010
+Episode 431, Avg Q: -0.4743
+Episode 431, Reward: -16.0, Loss: 0.0078, Epsilon: 0.010
+Episode 432, Avg Q: -0.4331
+Episode 432, Reward: -15.0, Loss: 0.0081, Epsilon: 0.010
+Episode 433, Avg Q: -0.4510
+Episode 433, Reward: -14.0, Loss: 0.0036, Epsilon: 0.010
+Episode 434, Avg Q: -0.4693
+Episode 434, Reward: -17.0, Loss: 0.0107, Epsilon: 0.010
+Episode 435, Avg Q: -0.4576
+Episode 435, Reward: -19.0, Loss: 0.0141, Epsilon: 0.010
+Episode 436, Avg Q: -0.4195
+Episode 436, Reward: -16.0, Loss: 0.0075, Epsilon: 0.010
+Episode 437, Avg Q: -0.3723
+Episode 437, Reward: -9.0, Loss: 0.0019, Epsilon: 0.010
+Episode 438, Avg Q: -0.4136
+Episode 438, Reward: -15.0, Loss: 0.0036, Epsilon: 0.010
+Episode 439, Avg Q: -0.4741
+Episode 439, Reward: -17.0, Loss: 0.0067, Epsilon: 0.010
+Episode 440, Avg Q: -0.3973
+Episode 440, Reward: -14.0, Loss: 0.0035, Epsilon: 0.010
+Episode 441, Avg Q: -0.4273
+Episode 441, Reward: -14.0, Loss: 0.0077, Epsilon: 0.010
+Episode 442, Avg Q: -0.4248
+Episode 442, Reward: -18.0, Loss: 0.0060, Epsilon: 0.010
+Episode 443, Avg Q: -0.4456
+Episode 443, Reward: -16.0, Loss: 0.0052, Epsilon: 0.010
+Episode 444, Avg Q: -0.4350
+Episode 444, Reward: -16.0, Loss: 0.0037, Epsilon: 0.010
+Episode 445, Avg Q: -0.4394
+Episode 445, Reward: -12.0, Loss: 0.0183, Epsilon: 0.010
+Episode 446, Avg Q: -0.4358
+Episode 446, Reward: -15.0, Loss: 0.0060, Epsilon: 0.010
+Episode 447, Avg Q: -0.3815
+Episode 447, Reward: -12.0, Loss: 0.0116, Epsilon: 0.010
+Episode 448, Avg Q: -0.3709
+Episode 448, Reward: -8.0, Loss: 0.0080, Epsilon: 0.010
+Episode 449, Avg Q: -0.3763
+Episode 449, Reward: -14.0, Loss: 0.0048, Epsilon: 0.010
+Episode 450, Avg Q: -0.3966
+Episode 450, Reward: -14.0, Loss: 0.0089, Epsilon: 0.010
+Episode 451, Avg Q: -0.4775
+Episode 451, Reward: -17.0, Loss: 0.0021, Epsilon: 0.010
+Episode 452, Avg Q: -0.5127
+Episode 452, Reward: -16.0, Loss: 0.0044, Epsilon: 0.010
+Episode 453, Avg Q: -0.5141
+Episode 453, Reward: -16.0, Loss: 0.0081, Epsilon: 0.010
+Episode 454, Avg Q: -0.3858
+Episode 454, Reward: -11.0, Loss: 0.0140, Epsilon: 0.010
+Episode 455, Avg Q: -0.4340
+Episode 455, Reward: -15.0, Loss: 0.0099, Epsilon: 0.010
+Episode 456, Avg Q: -0.3524
+Episode 456, Reward: -15.0, Loss: 0.0028, Epsilon: 0.010
+Episode 457, Avg Q: -0.2950
+Episode 457, Reward: -15.0, Loss: 0.0026, Epsilon: 0.010
+Episode 458, Avg Q: -0.2098
+Episode 458, Reward: -11.0, Loss: 0.0031, Epsilon: 0.010
+Episode 459, Avg Q: -0.1900
+Episode 459, Reward: -9.0, Loss: 0.0095, Epsilon: 0.010
+Episode 460, Avg Q: -0.2451
+Episode 460, Reward: -13.0, Loss: 0.0064, Epsilon: 0.010
+Episode 461, Avg Q: -0.2489
+Episode 461, Reward: -7.0, Loss: 0.0108, Epsilon: 0.010
+Episode 462, Avg Q: -0.3716
+Episode 462, Reward: -17.0, Loss: 0.0060, Epsilon: 0.010
+Episode 463, Avg Q: -0.2580
+Episode 463, Reward: -12.0, Loss: 0.0053, Epsilon: 0.010
+Episode 464, Avg Q: -0.2651
+Episode 464, Reward: -2.0, Loss: 0.0086, Epsilon: 0.010
+Episode 465, Avg Q: -0.2984
+Episode 465, Reward: -13.0, Loss: 0.0044, Epsilon: 0.010
+Episode 466, Avg Q: -0.2168
+Episode 466, Reward: -6.0, Loss: 0.0017, Epsilon: 0.010
+Episode 467, Avg Q: -0.1806
+Episode 467, Reward: -2.0, Loss: 0.0048, Epsilon: 0.010
+Episode 468, Avg Q: -0.2067
+Episode 468, Reward: 4.0, Loss: 0.0050, Epsilon: 0.010
+Episode 469, Avg Q: -0.1717
+Episode 469, Reward: -2.0, Loss: 0.0065, Epsilon: 0.010
+Episode 470, Avg Q: -0.1084
+Episode 470, Reward: 1.0, Loss: 0.0033, Epsilon: 0.010
+Episode 471, Avg Q: -0.1478
+Episode 471, Reward: -4.0, Loss: 0.0024, Epsilon: 0.010
+Episode 472, Avg Q: -0.1295
+Episode 472, Reward: -6.0, Loss: 0.0028, Epsilon: 0.010
+Episode 473, Avg Q: -0.0269
+Episode 473, Reward: -5.0, Loss: 0.0073, Epsilon: 0.010
+Episode 474, Avg Q: 0.0055
+Episode 474, Reward: -12.0, Loss: 0.0068, Epsilon: 0.010
+Episode 475, Avg Q: 0.0455
+Episode 475, Reward: -1.0, Loss: 0.0195, Epsilon: 0.010
+Episode 476, Avg Q: 0.0614
+Episode 476, Reward: -11.0, Loss: 0.0072, Epsilon: 0.010
+Episode 477, Avg Q: 0.0290
+Episode 477, Reward: -3.0, Loss: 0.0071, Epsilon: 0.010
+Episode 478, Avg Q: 0.0650
+Episode 478, Reward: -12.0, Loss: 0.0062, Epsilon: 0.010
+Episode 479, Avg Q: 0.1111
+Episode 479, Reward: -10.0, Loss: 0.0035, Epsilon: 0.010
+Episode 480, Avg Q: 0.1087
+Episode 480, Reward: -3.0, Loss: 0.0207, Epsilon: 0.010
+Episode 481, Avg Q: 0.1312
+Episode 481, Reward: -3.0, Loss: 0.0047, Epsilon: 0.010
+Episode 482, Avg Q: 0.0890
+Episode 482, Reward: -5.0, Loss: 0.0061, Epsilon: 0.010
+Episode 483, Avg Q: 0.2478
+Episode 483, Reward: -2.0, Loss: 0.0032, Epsilon: 0.010
+Episode 484, Avg Q: 0.1910
+Episode 484, Reward: -4.0, Loss: 0.0044, Epsilon: 0.010
+Episode 485, Avg Q: 0.1858
+Episode 485, Reward: -9.0, Loss: 0.0030, Epsilon: 0.010
+Episode 486, Avg Q: 0.1723
+Episode 486, Reward: -12.0, Loss: 0.0101, Epsilon: 0.010
+Episode 487, Avg Q: 0.1090
+Episode 487, Reward: -10.0, Loss: 0.0017, Epsilon: 0.010
+Episode 488, Avg Q: 0.1758
+Episode 488, Reward: -7.0, Loss: 0.0092, Epsilon: 0.010
+Episode 489, Avg Q: 0.0106
+Episode 489, Reward: -17.0, Loss: 0.0076, Epsilon: 0.010
+Episode 490, Avg Q: 0.0841
+Episode 490, Reward: 6.0, Loss: 0.0034, Epsilon: 0.010
+Episode 491, Avg Q: 0.0455
+Episode 491, Reward: -10.0, Loss: 0.0111, Epsilon: 0.010
+Episode 492, Avg Q: 0.0291
+Episode 492, Reward: -10.0, Loss: 0.0054, Epsilon: 0.010
+Episode 493, Avg Q: 0.1357
+Episode 493, Reward: 3.0, Loss: 0.0060, Epsilon: 0.010
+Episode 494, Avg Q: 0.0694
+Episode 494, Reward: -5.0, Loss: 0.0113, Epsilon: 0.010
+Episode 495, Avg Q: 0.0701
+Episode 495, Reward: -13.0, Loss: 0.0021, Epsilon: 0.010
+Episode 496, Avg Q: 0.1264
+Episode 496, Reward: -5.0, Loss: 0.0031, Epsilon: 0.010
+Episode 497, Avg Q: 0.0339
+Episode 497, Reward: -7.0, Loss: 0.0059, Epsilon: 0.010
+Episode 498, Avg Q: 0.0416
+Episode 498, Reward: -2.0, Loss: 0.0076, Epsilon: 0.010
+Episode 499, Avg Q: 0.0391
+Saving weights at Episode 500 ...
+Episode 499, Reward: -8.0, Loss: 0.0079, Epsilon: 0.010
+Training complete. Final model saved.
+Best model with reward 6.00 saved to 'RESULTS/dqn_pong_best.pt'.
+Saving weights at Episode 501 ...
+Final reward/loss plot saved to 'RESULTS/rewards_plot.png'
